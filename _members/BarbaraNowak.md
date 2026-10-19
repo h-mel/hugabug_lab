@@ -3,7 +3,7 @@ name: Barbara Nowak
 image: images/Barbara.jpg
 description: Master's student
 role: msc
-alumni: false
+alumni: true
 aliases:
   - Basia
 links:

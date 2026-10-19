@@ -3,7 +3,7 @@ name: Lebin Yousif
 image: images/LebinYousif.jpg
 description: Master's student
 role: msc
-alumni: false
+alumni: true
 aliases:
   -
 links:
