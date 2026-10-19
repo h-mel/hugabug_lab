@@ -1,6 +1,408 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.bpsgos.2025.100453
+  title: 'Investigating the Microbiome in Relation to Mental Distress Across Two Points
+    During Pregnancy: Data From U.S. and Swedish Cohorts'
+  authors:
+  - Mary Kimmel
+  - Bangzhuo Tong
+  - Alfons Edbom Devall
+  - "Richelle D. Bj\xF6rvang"
+  - Ina Schuppe-Koistinen
+  - Lars Engstrand
+  - Emma Fransson
+  - Alkistis Skalkidou
+  - Luisa W. Hugerth
+  publisher: Biological Psychiatry Global Open Science
+  date: 2025-5-1
+  link: https://doi.org/g886j3
+- id: doi:10.1016/j.caeai.2025.100531
+  title: "Seeking knowledge or efficiency: Profiling students\u2019 AI-use through\
+    \ survey-based latent class analysis"
+  authors:
+  - Mattias W. Hugerth
+  - Luisa W. Hugerth
+  publisher: 'Computers and Education: Artificial Intelligence'
+  date: 2026-6-1
+  link: https://doi.org/hbjm76
+- id: doi:10.1016/j.eurox.2026.100497
+  title: Effect of pHyph, A novel antibiotic-free treatment, on bacterial vaginosis
+    symptoms and vaginal microbiome composition
+  authors:
+  - Emilia Lahtinen
+  - Luisa W. Hugerth
+  - Gabriella Edfeldt
+  - "Annette S\xE4fholm"
+  - "Sten Kornf\xE4lt"
+  - Helena Strevens
+  - Ina Schuppe-Koistinen
+  publisher: 'European Journal of Obstetrics &amp; Gynecology and Reproductive Biology:
+    X'
+  date: 2026-12-1
+  link: https://doi.org/hcn8kb
+- id: doi:10.1016/j.lanmic.2025.101294
+  title: 'Vaginal microbiota transplantation for treatment of vaginal dysbiosis without
+    the use of antibiotics: a double-blind, randomised controlled trial in women with
+    vaginal dysbiosis'
+  authors:
+  - "Tine Wr\xF8nding"
+  - Kilian Vomstein
+  - Agnete Troen Lundgaard
+  - Kevin DeLong
+  - Sarah Mollerup
+  - Brynjulf Mortensen
+  - Elleke F Bosma
+  - Ann Marie Hellerung
+  - Emilie Vester Engel
+  - Klara Dortea Wiil
+  - Julie Elm Heintz
+  - "Sofie Ingdam Halkj\xE6r"
+  - Luisa W Hugerth
+  - "Tanja Schlaikj\xE6r Hartwig"
+  - Andreas Munk Petersen
+  - Anne Bloch Thomsen
+  - David Westergaard
+  - Nina la Cour Freiesleben
+  - Henrik Westh
+  - Johan E T van Hylckama Vlieg
+  - Laura M Ensign
+  - Henriette Svarre Nielsen
+  publisher: The Lancet Microbe
+  date: 2026-4-1
+  link: https://doi.org/hb3gw8
+- id: doi:10.1016/j.xagr.2025.100566
+  title: pHyph, a novel antibiotic-free treatment for bacterial vaginosis, promotes
+    Lactobacillus growth and reduces the abundance of pathogens in the vagina
+  authors:
+  - Emilia Lahtinen
+  - Luisa W. Hugerth
+  - Gabriella Edfeldt
+  - "Annette S\xE4fholm"
+  - "Sten Kornf\xE4lt"
+  - Lars Engstrand
+  - Helena Strevens
+  - Ina Schuppe-Koistinen
+  publisher: AJOG Global Reports
+  date: 2025-11-1
+  link: https://doi.org/g95bxn
+- id: doi:10.1016/s3050-5038(26)00213-x
+  title: 'Gut, vaginal, and seminal microbiomes in couples with infertility or recurrent
+    pregnancy loss: a two-cohort prospective study of reproductive outcomes'
+  authors:
+  - "Ida Behrendt-M\xF8ller"
+  - Maria Christine Krog
+  - Pernille Neve Myers
+  - Cathrine Voigt Dalgaard
+  - Nathalie Friis Wang
+  - Anna Mathilde Yde
+  - Amalie Somuncu Johansen
+  - Katrine Zwicky Eskildsen
+  - Josefine Reinhardt Nielsen
+  - Anna Slot
+  - Kathrine Vauvert R Hviid
+  - Ann Holm Hansen
+  - Laura Smidt Hansen
+  - Sofie Bliddal
+  - "Bugge N\xF8hr"
+  - "Marie Louise Gr\xF8ndahl"
+  - "Ellen L\xF8kkegaard"
+  - Eva Elmerstig
+  - "Sandra S\xF8gaard T\xF8ttenborg"
+  - Margreta Laczna Kitlinski
+  - Luisa W Hugerth
+  - Karina Banasik
+  - "Morten R\xF8nn Petersen"
+  - Anne Zedeler
+  - Angel Elenkov
+  - Nina La Cour Freiesleben
+  - Anders Juul
+  - Anja Bisgaard Pinborg
+  - Johan Malm
+  - Lars Rylander
+  - "Niels J\xF8rgensen"
+  - Fredrik Boulund
+  - Kristian Almstrup
+  - Lars Engstrand
+  - David Westergaard
+  - Ina Schuppe-Koistinen
+  - Kilian Vomstein
+  - Henriette Svarre Nielsen
+  publisher: The Lancet Obstetrics, Gynaecology, &amp; Women's Health
+  date: 2026-9-1
+  link: https://doi.org/hcfvfj
+- id: doi:10.1038/s41467-025-60490-1
+  title: Wastewater surveillance of SARS-CoV-2 from aircraft to citywide monitoring
+  authors:
+  - Mariel Perez-Zabaleta
+  - Carlo Berg
+  - Neus Latorre-Margalef
+  - Isaac Owusu-Agyeman
+  - Ayda Kiyar
+  - Helene Botnen
+  - "Caroline Sch\xF6nning"
+  - Luisa W. Hugerth
+  - Zeynep Cetecioglu
+  publisher: Nature Communications
+  date: 2025-6-2
+  link: https://doi.org/g9p532
+- id: doi:10.1038/s41522-026-00956-2
+  title: 'Machine learning and the role of the vaginal and fecal microbiome in miscarriage:
+    a matched case-control study'
+  authors:
+  - Unnur Gudnadottir
+  - Stefanie Prast-Nielsen
+  - Nicole Wagner
+  - Luisa W. Hugerth
+  - Vilma Kuttainen Alderheim
+  - Anusha T. Antony
+  - Juan Du
+  - Jorge Reis Guerreiro
+  - Fredrik Boulund
+  - Eva Wiberg-Itzel
+  - Lars Engstrand
+  - Ina Schuppe-Koistinen
+  - Nele Brusselaers
+  - Emma Fransson
+  publisher: npj Biofilms and Microbiomes
+  date: 2026-3-13
+  link: https://doi.org/hbtjpd
+- id: doi:10.1038/s41564-025-02116-2
+  title: A roadmap for equitable reuse of public microbiome data
+  authors:
+  - Laura A. Hug
+  - Roland Hatzenpichler
+  - Cristina Moraru
+  - "Andr\xE9 R. Soares"
+  - Folker Meyer
+  - Anke Heyder
+  - ' '
+  - R. Z. Abdallah
+  - A. Abdalrahem
+  - N. Abdulkadir
+  - I. M. Adesiyan
+  - L. Alteio
+  - K. Anantharaman
+  - R. Anderson
+  - A-S. Andrei
+  - J. A. Baeza
+  - F. Bak
+  - B. Baker
+  - "A. Bartholom\xE4us"
+  - N. Bejerman
+  - J. Biddle
+  - A. Bissett
+  - J. A. Blakeley-Ruiz
+  - K. Block
+  - J. Boldt
+  - G. Bonilla-Rosso
+  - T. L. Bornemann
+  - V. S. Brauer
+  - W. Brazelton
+  - A. Bremges
+  - E. Buelow
+  - Z. M. Burcham
+  - A. Cansdale
+  - J. G. Caporaso
+  - T. Cernava
+  - I. Chatzigiannidou
+  - R. Costa
+  - C. R. Currie
+  - A. Daebeler
+  - V. De Anda
+  - A. De Santiago
+  - L. M. Arake de Tacca
+  - J. Debelius
+  - S. M. Dittami
+  - X. Dong
+  - "M. D\u017Eunkov\xE1"
+  - A. Edwards
+  - R. Edwards
+  - S. Egbert
+  - J. C. Engelmann
+  - S. P. Esser
+  - T. J. G. Ettema
+  - C. L. Ettinger
+  - A. Petrovic Fabijan
+  - R. M. W. Ferguson
+  - P. Ferretti
+  - P. Foucault
+  - J. A. Fuhrman
+  - A. M. Gada
+  - P. Geesink
+  - I. R. Gerhardt
+  - M. O. Gessner
+  - D. Giovannelli
+  - D. Gittins
+  - G. B. Gloor
+  - "R. A. Gonz\xE1lez-Pech"
+  - C. Gopalakrishnappa
+  - C. Greening
+  - R. Gregor
+  - A. C. Gregory
+  - H.-P. Grossart
+  - M. Groussin
+  - B. Valenzuela Guerrero
+  - M. Guzel
+  - N. Hamamura
+  - T. L. Hamilton
+  - J. N. Hamm
+  - L. Hart
+  - "C. Hassenr\xFCck"
+  - M. Hay
+  - R. M. Hechler
+  - P. Hellwig
+  - M. Henson
+  - M. Herold
+  - P. J. Hesketh-Best
+  - M. Hess
+  - L. Hillary
+  - T. C. Hitch
+  - S. S. Hivarkar
+  - K. J. Hoff
+  - E. F. Hom
+  - S. Hou
+  - L. W. Hugerth
+  - Y. Hwang
+  - N. Ilott
+  - Z. J. Jay
+  - S. P. Jungbluth
+  - E. Karimi
+  - Y. M. Kaspareit
+  - C. Keating
+  - M. Kellom
+  - E. A. Kiledal
+  - I. Klarenberg
+  - R. Knight
+  - A. K. Koech
+  - E. V. Koonin
+  - K. Kormas
+  - K. Kujala
+  - N. C. Kyrpides
+  - S. L. La Rosa
+  - C. C. Laczny
+  - K. Lahmers
+  - X. Lan
+  - A. A. Lateef
+  - S. H. Lau
+  - F. Leese
+  - "M. \xC1. Lezcano"
+  - S. S. Li
+  - R. N. Lima
+  - "S. L\xFCcker"
+  - A. Mahnert
+  - S. Majidian
+  - L. Malfertheiner
+  - A. Marshall
+  - S. Meaden
+  - C. J. Meehan
+  - D. V. Meier
+  - C. Melkonian
+  - D. R. Mende
+  - J. L. Meyer
+  - G. Michoud
+  - V. Mikryukov
+  - S. Miravet-Verde
+  - J. Muschiol
+  - "M. K. Nata\u2019ala"
+  - J. D. Neufeld
+  - S. Neuhauser
+  - O. Osuolale
+  - J. Osvatic
+  - K. M. Pappas
+  - D. H. Parks
+  - R. H. Parry
+  - P. V. Pascoal
+  - C. Pavloudi
+  - B. Peyton
+  - J. Plewka
+  - M. Poyet
+  - T. Priest
+  - E. K. Quaye
+  - S. Ramganesh
+  - T. Rattei
+  - P. Rausch
+  - E. Rech
+  - C. Rinke
+  - C. Robinson
+  - "A. Rodr\xEDguez-Gij\xF3n"
+  - L. M. Rodriguez-R
+  - R. R. Rohwer
+  - T. Roloff
+  - J. A. Rothman
+  - "S. R\xFCckert"
+  - S. E. Ruff
+  - J. S. Saini
+  - "M. G. Santiago-Mart\xEDnez"
+  - L. Santoferrara
+  - M. S. Sarhan
+  - J. H. Saw
+  - T. Sbaffi
+  - "R. B. Sch\xE4fer"
+  - G. Schaible
+  - M. Schloter
+  - R. A. Schmitz
+  - C. Schubert
+  - O. Schwengers
+  - L. Sehnal
+  - A. Sekar
+  - J. Sekar
+  - M. M. Seyoum
+  - M. B. Shah
+  - I. Sharon
+  - B. Siebers
+  - E. T. Sieradzki
+  - D. Skliros
+  - O. L. Snoeyenbos-West
+  - A. Sorbie
+  - D. R. Speth
+  - C. G. Sprehn
+  - P. Srivastava
+  - T. L. Stach
+  - J. E. Stajich
+  - J. Starke
+  - A. D. Steen
+  - "R. St\xF6ckl"
+  - T. Stoikidou
+  - N. Stopnisek
+  - R. Sukumaran
+  - B. Sures
+  - S. Suzuki
+  - D. Tamarit
+  - P. Thieringer
+  - R. Y. Tito
+  - C. B. Trivedi
+  - G. Trubl
+  - J. Truu
+  - M. Tsiknia
+  - J. Ugalde
+  - L. E. Valentin-Alvarado
+  - "X. V\xE1zquez-Campos"
+  - J. Vierheilig
+  - F. A. B. von Meijenfeldt
+  - M. Wagner
+  - C. J. Walsh
+  - S. Wang
+  - Y. Wang
+  - C.-E. Wegner
+  - T. Weir
+  - L. C. Weiss
+  - J. L. Weissman
+  - A. Wichels
+  - C. L. Williams
+  - T. A. Williams
+  - A. Z. Worden
+  - T. Woyke
+  - M. Wu
+  - W. Xiu
+  - Y. Zhang
+  - J. Zhu
+  - R. M. Ziels
+  - B. Zwirzitz
+  - Alexander J. Probst
+  publisher: Nature Microbiology
+  date: 2025-9-26
+  link: https://doi.org/hbfz93
 - id: doi:10.1038/s41598-019-53599-z
   title: Effects of sampling strategy and DNA extraction on human skin microbiome
     investigations
@@ -32,6 +434,25 @@
   publisher: Scientific Reports
   date: 2020-1-17
   link: https://doi.org/gjf8cw
+- id: doi:10.1038/s41598-026-54100-3
+  title: Shotgun metagenomic mapping of saliva reveals insights into diversity and
+    function of the oral microbiome in pregnancy
+  authors:
+  - Nagihan Bostanci
+  - Anusha T. Antony
+  - Angelika Silbereisen
+  - Tina Esmaili
+  - Maria C. Krog
+  - Irene Sterpu
+  - Zahra Bashir
+  - Lars Engstrand
+  - Eva Wiberg-Itzel
+  - Henriette Svarre Nielsen
+  - Luisa W. Hugerth
+  - Ina Schuppe-Koistinen
+  publisher: Scientific Reports
+  date: 2026-5-27
+  link: https://doi.org/hb6zj9
 - id: doi:10.1038/s42003-020-01214-7
   title: Genome sequence of segmented filamentous bacteria present in the human intestine
   authors:
@@ -43,6 +464,55 @@
   publisher: Communications Biology
   date: 2020-9-4
   link: https://doi.org/gjbb58
+- id: doi:10.1038/s44294-025-00114-7
+  title: The vaginal microbiota and gynaecological health study - VaMiGyn - description
+    of a population-based Swedish cohort
+  authors:
+  - Johanna Norenhag
+  - Gabriella Edfeldt
+  - "Karin St\xE5lberg"
+  - Luisa Warchavchik Hugerth
+  - Juan Du
+  - Emma Fransson
+  - Ina Schuppe-Koistinen
+  - Lars Engstrand
+  - Matts Olovsson
+  publisher: npj Women's Health
+  date: '2025-12-16'
+  link: https://doi.org/hbhcv5
+- id: doi:10.1038/s44294-026-00163-6
+  title: Multi-omics investigation of metabolomic and microbial features in bacterial
+    vaginosis
+  authors:
+  - Hana Shabana
+  - Faruk Dube
+  - Emilia Lahtinen
+  - "Emelie Bergman R\xF8the"
+  - Lars Engstrand
+  - Luisa Warchavchik Hugerth
+  - Ina Schuppe-Koistinen
+  - Kenny A. Rodriguez-Wallberg
+  publisher: npj Women's Health
+  date: 2026-8-27
+  link: https://doi.org/hcksrk
+- id: doi:10.1080/29933935.2025.2603861
+  title: "The gut microbiome in early pregnancy is associated with the severity of\
+    \ nausea and vomiting: a nested case\u2012control study"
+  authors:
+  - "Cl\xE0udia Gonz\xE1lez-Valdivia"
+  - Bangzhuo Tong
+  - Sanna Hjalmarsson
+  - "Unnur Gu\xF0nad\xF3ttir"
+  - Nicole Wagner
+  - Lars Engstrand
+  - Ina Schuppe-Koistinen
+  - Emma Fransson
+  - Stefanie Prast-Nielsen
+  - Nele Brusselaers
+  - Luisa W. Hugerth
+  publisher: Gut Microbes Reports
+  date: '2025-12-22'
+  link: https://doi.org/hbhtrh
 - id: doi:10.1093/hropen/hoac015
   title: 'The microbiome in reproductive health: protocol for a systems biology approach
     using a prospective, observational study design'
@@ -80,6 +550,18 @@
   publisher: Human Reproduction
   date: 2022-5-11
   link: https://doi.org/gp5f25
+- id: doi:10.1093/humupd/dmag033
+  title: 'Vaginal microbiome composition and medically assisted reproduction outcomes:
+    a systematic review and network meta-analysis of 2289 women across three WHO regions'
+  authors:
+  - Hana Shabana
+  - Unnur Gudnadottir
+  - Luisa Warchavchik Hugerth
+  - Kenny A Rodriguez-Wallberg
+  - Nele Brusselaers
+  publisher: Human Reproduction Update
+  date: '2026-10-15'
+  link: https://doi.org/hcn8jz
 - id: doi:10.1101/2020.05.05.079996
   title: Optimal protocols for sequence-based characterization of the human vaginal
     microbiome
@@ -97,7 +579,7 @@
   - Henriette Svarre-Nielsen
   - Ina Schuppe-Koistinen
   - Lars Engstrand
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: 2020-5-7
   link: https://doi.org/g54sg2
 - id: doi:10.1101/2021.03.23.436606
@@ -110,7 +592,7 @@
   - Fredrik Boulund
   - Weimin Ye
   - Lars Engstrand
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: 2021-3-23
   link: https://doi.org/grhgn9
 - id: doi:10.1101/2023.06.02.543379
@@ -127,12 +609,13 @@
   - Lars Engstrand
   - Henriette Svarre Nielsen
   - Ina Schuppe-Koistinen
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: 2023-6-2
   link: https://doi.org/g54sjg
 - id: doi:10.1101/2023.12.07.570202
-  title: Gene co-expression network analysis reveal core responsive genes in<i>Parascaris
-    univalens</i>tissues following ivermectin exposure
+  title: "Gene co-expression network analysis reveal core responsive genes in\n  \
+    \                <i>Parascaris univalens</i>\n                  tissues following\
+    \ ivermectin exposure"
   authors:
   - Faruk Dube
   - Nicolas Delhomme
@@ -141,9 +624,25 @@
   - "Magnus \xC5brink"
   - "Staffan Sv\xE4rd"
   - "Eva Tyd\xE9n"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: 2023-12-8
   link: https://doi.org/g8rf63
+- id: doi:10.1101/2025.10.08.25337564
+  title: 'Metabolic differences in the maternal gut microbiome precede the birth of
+    large-for-gestational-age infants: A nested case-control study'
+  authors:
+  - Anusha T. Antony
+  - Fatemeh Mohseni
+  - "Ga\xEBl Toubon"
+  - "Unnur Gu\xF0nad\xF3ttir"
+  - Lars Engstrand
+  - Emma Fransson
+  - Ina Schuppe-Koistinen
+  - Nele Brusselaers
+  - Luisa W. Hugerth
+  publisher: openRxiv
+  date: 2025-10-9
+  link: https://doi.org/g983bp
 - id: doi:10.1101/286526
   title: A comprehensive automated pipeline for human microbiome sampling, 16S rRNA
     gene sequencing and bioinformatics processing
@@ -155,7 +654,7 @@
   - MC Hamsten
   - I Schuppe-Koistinen
   - L Engstrand
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: 2018-3-21
   link: https://doi.org/gkwxwx
 - id: doi:10.1111/nph.18342
@@ -175,9 +674,9 @@
   date: 2022-7-15
   link: https://doi.org/gqqdhv
 - id: doi:10.1128/msphere.00448-20
-  title: "Assessment of\n            <i>In Vitro</i>\n            and\n          \
-    \  <i>In Silico</i>\n            Protocols for Sequence-Based Characterization\
-    \ of the Human Vaginal Microbiome"
+  title: "Assessment of\n                    <i>In Vitro</i>\n                   \
+    \ and\n                    <i>In Silico</i>\n                    Protocols for\
+    \ Sequence-Based Characterization of the Human Vaginal Microbiome"
   authors:
   - Luisa W. Hugerth
   - Marcela Pereira
@@ -195,6 +694,20 @@
   publisher: mSphere
   date: '2020-12-23'
   link: https://doi.org/gh9b63
+- id: doi:10.1136/bmjopen-2026-118233
+  title: 'Cohort profile: PREVENT 1, a nationwide Swedish infant cohort for longitudinal
+    gut microbiome profiling and early-life health outcomes'
+  authors:
+  - Sheila Orwa
+  - Marija Vlajic
+  - Eleonora Cavani
+  - Alfons Edbom Devall
+  - Luisa W Hugerth
+  - Nele Brusselaers
+  - Willem M De Vos
+  publisher: BMJ Open
+  date: 2026-8-1
+  link: https://doi.org/hckf7v
 - id: doi:10.1136/gutjnl-2019-318717
   title: No distinct microbiome signature of irritable bowel syndrome found in a Swedish
     random population
@@ -210,6 +723,20 @@
   publisher: Gut
   date: '2019-10-10'
   link: https://doi.org/gh9p3f
+- id: doi:10.1186/s12864-025-12390-3
+  title: Predicting allergy and postpartum depression from an incomplete compositional
+    microbiome
+  authors:
+  - Andrey Shternshis
+  - Bangzhuo Tong
+  - Alkistis Skalkidou
+  - "Carolina W\xE4hlby"
+  - Dave Zachariah
+  - Luisa W. Hugerth
+  - Prashant Singh
+  publisher: BMC Genomics
+  date: 2025-12-6
+  link: https://doi.org/hbh7gj
 - id: doi:10.1186/s12866-021-02260-9
   title: "Benzylpenicillin-producing Trichophyton erinacei and methicillin resistant\
     \ Staphylococcus aureus carrying the mecC gene on European hedgehogs \u2013 A\
@@ -223,6 +750,23 @@
   publisher: BMC Microbiology
   date: 2021-7-15
   link: https://doi.org/gmph99
+- id: doi:10.1186/s12866-025-04473-8
+  title: 'Differences in the faecal microbiome of obese and non-obese pregnant women:
+    a matched cohort study in Sweden'
+  authors:
+  - Evangelos Patavoukas
+  - Bangzhuo Tong
+  - "Unnur Gu\xF0nad\xF3ttir"
+  - Kyriakos Charalampous
+  - Nele Brusselaers
+  - Ina Schuppe-Koistinen
+  - Lars Engstrand
+  - Emma Fransson
+  - Eva Wiberg-Itzel
+  - Luisa Hugerth
+  publisher: BMC Microbiology
+  date: '2025-11-15'
+  link: https://doi.org/hbcdvr
 - id: doi:10.1186/s13071-020-04212-0
   title: Transcriptional responses in Parascaris univalens after in vitro exposure
     to ivermectin, pyrantel citrate and thiabendazole
@@ -280,6 +824,35 @@
   publisher: PLOS ONE
   date: 2024-2-15
   link: https://doi.org/gtrsg7
+- id: doi:10.1371/journal.pone.0348943
+  title: 'Comparative analysis of gut microbiome alterations in early- and late-onset
+    preeclampsia: A case control study'
+  authors:
+  - Sofie Meijer
+  - Luisa W. Hugerth
+  - Mehrnaz Nouri
+  - Lena Erlandsson
+  - Shahram Lavasani
+  - Stefan R. Hansson
+  publisher: PLOS One
+  date: 2026-6-18
+  link: https://doi.org/hb83j7
+- id: doi:10.21203/rs.3.rs-10262984/v1
+  title: 'Gut microbiome composition does not predict pregnancy complications among
+    obese women: a nested case-control study in Sweden'
+  authors:
+  - Bangzhuo Tong
+  - Evangelos Patavoukas
+  - "Unnur Gu\xF0nad\xF3ttir"
+  - Ina Schuppe-Koistinen
+  - Lars Engstrand
+  - Emma Fransson
+  - Nele Brusselaers
+  - Eva Wiberg-Itzel
+  - Luisa W. Hugerth
+  publisher: Springer Science and Business Media LLC
+  date: 2026-7-25
+  link: https://doi.org/hcftq7
 - id: doi:10.21203/rs.3.rs-1281039/v1
   title: Ivermectin-induced Gene Expression Changes in Adult Parascaris Univalens
     and Caenorhabditis Elegans- a Comparative Approach to Study Anthelminthic Metabolism
@@ -292,7 +865,7 @@
   - "Magnus \xC5brink"
   - "Staffan Sv\xE4rd"
   - "Eva Tyd\xE9n"
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: 2022-1-28
   link: https://doi.org/g8rf62
 - id: doi:10.21203/rs.3.rs-4880585/v1
@@ -325,7 +898,7 @@
   - Lars Engstrand
   - Henriette Svarre Nielsen
   - Ina Schuppe-Koistinen
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: 2021-7-14
   link: https://doi.org/g54shr
 - id: doi:10.21203/rs.3.rs-696563/v2
@@ -341,9 +914,42 @@
   - Lars Engstrand
   - Ina Schuppe-Koistinen
   - Henriette Svarre Nielsen
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: 2021-8-30
   link: https://doi.org/g54shc
+- id: doi:10.2139/ssrn.7048445
+  title: Evaluation of source separated waste streams as substrate for volatile fatty
+    acid production in the circular city concept
+  authors:
+  - Leonor Q. Lobo
+  - Isaac Owusu-Agyeman
+  - Luisa  W. Hugerth
+  - Laura Herbst
+  - Antonius  J.A. van Maris
+  - Zeynep Cetecioglu
+  publisher: Elsevier BV
+  date: 2026-1-1
+  link: https://doi.org/hcn8kc
+- id: doi:10.2139/ssrn.7169786
+  title: Determinants of the Vaginal Microbiome across Ages and the Presence of Antimicrobial
+    Resistance in Healthy Swedish Women
+  authors:
+  - Gabriella Edfeldt
+  - Johanna Norenhag
+  - Emilia Lahtinen
+  - Tatjana Pavlenko
+  - Nele Brusselaers
+  - Luisa  W. Hugerth
+  - Emma Fransson
+  - Fredrik Boulund
+  - Juan Du
+  - Maria Gloria Dominguez Bello
+  - Ina Schuppe-Koistinen
+  - Matts Olovsson
+  - Lars Engstrand
+  publisher: Elsevier BV
+  date: 2026-1-1
+  link: https://doi.org/hcn8j2
 - id: doi:10.3389/fmicb.2023.1205797
   title: Intestinal colonization with Campylobacter jejuni affects broiler gut microbiota
     composition but is not inhibited by daily intake of Lactiplantibacillus plantarum
@@ -367,3 +973,35 @@
   publisher: Acta Universitatis Agriculturae Sueciae
   date: 2024-1-1
   link: https://doi.org/gtd9mc
+- id: doi:10.64898/2026.07.10.737741
+  title: 'PLAGUE: Improved confidence plasmid reconstruction from short read assemblies'
+  authors:
+  - Karolina Kozubal
+  - Faruk Dube
+  - Amar Mujkic
+  - "Enrique Joffr\xE9"
+  - Lionel Guy
+  - Helen Wang
+  - Luisa W. Hugerth
+  publisher: openRxiv
+  date: 2026-7-10
+  link: https://doi.org/hcn8j3
+- id: doi:10.64898/2026.09.24.753817
+  title: Benchmarking virus identification tools on vaginal metagenomes
+  authors:
+  - Faruk Dube
+  - Anna-Ursula Happel
+  - Heather B. Jaspan
+  - Luisa Warchavchik Hugerth
+  publisher: openRxiv
+  date: 2026-9-25
+  link: https://doi.org/hcn8j4
+- id: doi:10.64898/2026.10.12.758512
+  title: Imputing relative abundances via Gaussian random fields
+  authors:
+  - Andrey Shternshis
+  - Prashant Singh
+  - Luisa W. Hugerth
+  publisher: openRxiv
+  date: '2026-10-13'
+  link: https://doi.org/hcn8j5
