@@ -3,7 +3,7 @@ name: Eleni Karaiskou
 image: 
 description: Master's student
 role: msc
-alumni: false
+alumni: true
 aliases:
   - 
 links:
